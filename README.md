@@ -1,2 +1,2 @@
 # Sankhya
-Pasta para Compartilhar projetos Java
+Pasta para Compartilhar projetos Java.
